@@ -1,4 +1,4 @@
-This mod should be considered in progress and untested.  
+**This mod should be considered in progress and untested.**
 At a minimum, you will probably need to widen some of the mounting screw holes and clearance some parts after printing.
 I offer no instructions for assembly, and no bill of materials, but you should be able to use the included model files to aid with most of that.
 
@@ -9,3 +9,5 @@ I have printed and installed the gantry mounts, toolhead assembly, Y belt idlers
 There is an improved experimental X idler tower in the model files that I haven't tested yet, but should offer more adjustment.
 
 Sorry about the mess, I've had no training in parametric design or CAD, I just tinker with it in my free time.
+
+![Image of design](https://github.com/sizzlewow/Ender5Plus_HybridCoreXY/blob/main/assets/images/image_1.jpg)
